@@ -1,4 +1,4 @@
-# Yelp-fun
+# Yelp-courses
 
 Author: AG
 
